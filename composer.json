@@ -1,0 +1,20 @@
+{
+    "name": "hxyou/lib",
+    "description": "幻想游戏，工具库，hxyou.cn",
+    "authors": [
+        {
+            "name": "liguoliang-MagicBook",
+            "email": "53957105@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "numberFormat\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
